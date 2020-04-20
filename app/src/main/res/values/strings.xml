@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">nci</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="Quote1">Lift like you mean it</string>
+    <string name="Quote2">Keep a fitness journal</string>
+    <string name="Quote3">Avoid processed foods</string>
+    <string name="Quote4">Take a day off between weight-lifting sessions</string>
+    <string name="Quote5">Drink water</string>
+    <string name="Quote6">Success usually comes to those who are too busy to be looking for it.</string>
+    <string name="Quote7">Do workouts you enjoy</string>
+    <string name="Quote8">Action is the foundational key to all success</string>
+    <string name="Quote9">A champion is someone who gets up when they can’t.</string>
+    <string name="Quote10">Take recovery days</string>
+    <string name="Quote11">All progress takes place outside the comfort zone.</string>
+    <string name="Quote12">Make fitness a top priority</string>
+    <string name="Quote13">Work harder than last time</string>
+    <string name="Quote14">Push your limits</string>
+    <string name="Quote15">Burn more calories than you eat</string>
+    <string name="Quote16">What hurts today makes you stronger tomorrow.</string>
+    <string name="Quote17">If you want something you’ve never had, you must be willing to do something you’ve never done.</string>
+    <string name="Quote18">Keep track of calories</string>
+    <string name="Quote19">Trade soda for sparkling water</string>
+    <string name="Quote20">Get enough sleep</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933075993615",
+    "firebase_url": "https://ncifirebaseproject.firebaseio.com",
+    "project_id": "ncifirebaseproject",
+    "storage_bucket": "ncifirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933075993615:android:5f6d1362493a16a454cf7a",
+        "android_client_info": {
+          "package_name": "com.example.nci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933075993615-5guhiovr4ggmbmhvh562fgkg5pjtm5nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nci",
+            "certificate_hash": "ebee6a77ada176392b05a78cbc0b0c4b6bc7cc18"
+          }
+        },
+        {
+          "client_id": "933075993615-o838v2le7b4o87ol2tklq4albnbms76g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLSWXvs2CLqk8JBuYWBaA0uskHU0a1tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933075993615-o838v2le7b4o87ol2tklq4albnbms76g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
